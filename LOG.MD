@@ -14,3 +14,7 @@ porque??
 ###this will be good--2025-06-19 10:30:13.999419
 
 it dosen't work
+
+###I am dumb--2025-06-19 10:30:29.359921
+
+yes you are
