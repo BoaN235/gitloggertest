@@ -14,3 +14,8 @@ I finally got the basic interface working hopfully it dosen't break and I can wo
 ### adding img -- Thursday, June 19, 2025 20:28:27
 
 I am trying to add an img to the log
+
+
+### Testing Uploading Images -- Thursday, June 19, 2025 20:29:33
+
+I am trying to add an img to the log
