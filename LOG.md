@@ -14,3 +14,8 @@ I finally got the basic interface working hopfully it dosen't break and I can wo
 ###  -- Thursday, June 19, 2025 21:48:40
 
 
+
+
+### Testing Log File -- Thursday, June 19, 2025 22:02:04
+
+I am adding alog file
